@@ -21,7 +21,7 @@ Before running this project, make sure you have the following installed:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/user_management_app.git
+git clone git@github.com:bayazidsustami/user-management-app.git
 cd user_management_app
 ```
 
